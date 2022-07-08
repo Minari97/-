@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
 
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="PRSTNCNTV",GMA TV
-http://wayforward.xyz:25461/Shackett/Shackett/200488,https://iptv-sniper.herokuapp.com/localtv.php?channel=5
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5
+http://wayforward.xyz:25461/Shackett/Shackett/200488
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="PRSTNCNTV",GTV
 http://wayforward.xyz:25461/Shackett/Shackett/57407
