@@ -72,3 +72,6 @@ http://210.210.155.35/uq2663/h/h22/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bdUhUjR.jpg" group-title="PRSTNCNTV",Kapatid 5
 http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/171991.ts
 
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US : ESPN 2 FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="PRSNTCNTV",ESPN 2
+http://wayforward.xyz:25461/Shackett/Shackett/53402
+
