@@ -1,4 +1,3 @@
-ブラックボルトブラックボルトブラックボルトブラックボルトブラックボルトブラックボルトブラックボルトブラックボルトブラックボルト
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
 
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="PRSTNCNTV",GMA TV
@@ -16,28 +15,28 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=50
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="PRSTNCNTV",KAPAMILYA CHANNEL
 https://rotf.lol/kapchacdn
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="http://n2086.securepoint.io:25461/images/31ca4011a838ae589bedbcdc9891732f.png" group-title="PRSTNCNTV",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png" group-title="PRSTNCNTV",DISNEY JUNIOR
 http://wayforward.xyz:25461/Shackett/Shackett/53406
 
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="http://n2086.securepoint.io:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="PRSTNCNTV",DISNEY XD
+#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="PRSTNCNTV",DISNEY XD
 http://wayforward.xyz:25461/Shackett/Shackett/53405
 
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="http://n2086.securepoint.io:25461/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="PRSTNCNTV",CARTOON NETWORK
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png" group-title="PRSTNCNTV",CARTOON NETWORK
 http://wayforward.xyz:25461/Shackett/Shackett/53415
 
-#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="http://wayforward.xyz:25461/images/f91022004ce9aab1397c498ec1ee684b.png" group-title="PRSTNCNTV",BOOMERANG
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="PRSTNCNTV",BOOMERANG
 http://wayforward.xyz:25461/Shackett/Shackett/56364
 
-#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Junior" tvg-logo="http://n2086.securepoint.io:25461/images/913c4858c66af34fc5575fcb46f3fecb.png" group-title="PRSTNCNTV",NICK JUNIOR
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/800px-Nick_Jr.logo.png" group-title="PRSTNCNTV",NICK JUNIOR
 http://wayforward.xyz:25461/Shackett/Shackett/53361
 
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nick Toons" tvg-logo="http://n2086.securepoint.io:25461/images/7c5a9a9b092e065b4df87d3943593685.png" group-title="PRSTNCNTV",NICK TOONS
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/640px-Nicktoons_Network_logo_2009.svg.png" group-title="PRSTNCNTV",NICK TOONS
 http://wayforward.xyz:25461/Shackett/Shackett/53359
 
 #EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="PRSTNCNTV",ANIMAX
 http://wayforward.xyz:25461/Shackett/Shackett/57386
 
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="http://n2086.securepoint.io:25461/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="PRSTNCNTV",ESPN
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="PRSTNCNTV",ESPN
 http://wayforward.xyz:25461/Shackett/Shackett/53403
 
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://n2086.securepoint.io:25461/images/f0fc52e1ae7e2c546b866148027510fc.png" group-title="PRSTNCNTV",UFC FIGHT PASS
@@ -77,4 +76,3 @@ http://wayforward.xyz:25461/Shackett/Shackett/53402
 
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="US : ESPN U FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/500b1f7cdad583f9d07c87427babe201.png" group-title="PRSNTCNTV",ESPN U
 http://wayforward.xyz:25461/Shackett/Shackett/53401
-
