@@ -1,1 +1,117 @@
 
+#EXTM3U url-tvg="http://m3u4u.com/epg/782dyqg66pb4keqvy4zp,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV
+http://wayforward.xyz:25461/Shackett/Shackett/200488
+
+#EXTINF:-1 tvg-id="GTV.ph" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/512px-GTV_Philippines_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GTV
+http://wayforward.xyz:25461/Shackett/Shackett/57407
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="Kapatid Tv5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV5
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8
+
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="LIVE CHANNEL",ONE SPORTS
+https://iptv-sniper.herokuapp.com/localtv.php?channel=50
+
+#EXTINF:-1 tvg-id="KapamilyaChannel.ph" tvg-name="Kapamilya Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/512px-Kapamilya_Channel.png" group-title="LIVE CHANNEL",KAPAMILYA CHANNEL
+https://rotf.lol/kapchacdn
+
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png" group-title="LIVE CHANNEL",DISNEY JUNIOR
+http://wayforward.xyz:25461/Shackett/Shackett/53406
+
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/800px-Logo_Disney_XD.png" group-title="LIVE CHANNEL",DISNEY XD
+http://wayforward.xyz:25461/Shackett/Shackett/53405
+
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Cartoon_Network.svg/512px-Cartoon_Network.svg.png" group-title="LIVE CHANNEL",CARTOON NETWORK
+http://wayforward.xyz:25461/Shackett/Shackett/53415
+
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="LIVE CHANNEL",BOOMERANG
+http://wayforward.xyz:25461/Shackett/Shackett/56364
+
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="Nick Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nick_Jr.logo.png/800px-Nick_Jr.logo.png" group-title="LIVE CHANNEL",NICK JUNIOR
+http://wayforward.xyz:25461/Shackett/Shackett/53361
+
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/640px-Nicktoons_Network_logo_2009.svg.png" group-title="LIVE CHANNEL",NICK TOONS
+http://wayforward.xyz:25461/Shackett/Shackett/53359
+
+#EXTINF:-1 tvg-id="AnimaxPhilippines.ph" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/512px-Animax.svg.png" group-title="LIVE CHANNEL",ANIMAX
+http://wayforward.xyz:25461/Shackett/Shackett/57386
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="LIVE CHANNEL",ESPN
+http://wayforward.xyz:25461/Shackett/Shackett/53403
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="http://n2086.securepoint.io:25461/images/f0fc52e1ae7e2c546b866148027510fc.png" group-title="LIVE CHANNEL",UFC FIGHT PASS
+http://wayforward.xyz:25461/Shackett/Shackett/109953
+
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="http://hostengine.live:25461/images/90798d95849ef4b30c1b5ea8d14e179a.png" group-title="LIVE CHANNEL",NBA TV
+http://wayforward.xyz:25461/Shackett/Shackett/53366
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="HBO" tvg-logo="http://wayforward.xyz:25461/images/20590cac6bdbb1d87c1d1587da998b23.png" group-title="LIVE CHANNEL",HBO
+http://wayforward.xyz:25461/Shackett/Shackett/53384
+
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="HBO Family" tvg-logo="http://wayforward.xyz:25461/images/c63f52bb327351cfe58cfc09a94a9004.png" group-title="LIVE CHANNEL",HBO FAMILY
+http://wayforward.xyz:25461/Shackett/Shackett/53383
+
+#EXTINF:-1 tvg-id="universalkids.us" tvg-name="Universal Kids" tvg-logo="http://n2086.securepoint.io:25461/images/bbba9c4241bd95f290ac234c204889c6.png" group-title="LIVE CHANNEL",UNIVERSAL KIDS
+http://wayforward.xyz:25461/Shackett/Shackett/53306
+
+#EXTINF:-1 tvg-id="nationalgeographic.us" tvg-name="National Geographic" tvg-logo="http://wayforward.xyz:25461/images/72ff2fd91d37dc1bb59d28a56383a5bd.png" group-title="LIVE CHANNEL",NATIONAL GEOGRAPHIC
+http://wayforward.xyz:25461/Shackett/Shackett/53362
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="SHOWTIME" tvg-logo="http://wayforward.xyz:25461/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" group-title="LIVE CHANNEL",SHOWTIME
+http://wayforward.xyz:25461/Shackett/Shackett/53323
+
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="TNT" tvg-logo="http://n2086.securepoint.io:25461/images/921b51e15cd8f016c05021b7de04d906.png" group-title="LIVE CHANNEL",TNT
+http://wayforward.xyz:25461/Shackett/Shackett/53315
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nlgd4WU.png" group-title="LIVE CHANNEL",eGG Network
+http://210.210.155.35/uq2663/h/h22/index.m3u8
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US : ESPN 2 FHD 1080" tvg-logo="http://n2086.securepoint.io:25461/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="LIVE CHANNEL",ESPN 2
+http://wayforward.xyz:25461/Shackett/Shackett/53402
+
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US : ESPN U FHD 1080" tvg-logo="http://wayforward.xyz:25461/images/500b1f7cdad583f9d07c87427babe201.png" group-title="LIVE CHANNEL",ESPN U
+http://wayforward.xyz:25461/Shackett/Shackett/53401
+
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV : PLUTO TV BOXING" tvg-logo="http://hostengine.live:25461/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="LIVE CHANNEL",PLUTO TV BOXING
+http://wayforward.xyz:25461/Shackett/Shackett/138860
+
+#EXTINF:-1 tvg-id="" tvg-name="WATCHYOURTV: TVS BOXING NETWORK" tvg-logo="http://n2086.securepoint.io:25461/images/1d2c1419480030a8d066f1f857a84611.png" group-title="LIVE CHANNEL",TVS BOXING NETWORK
+http://wayforward.xyz:25461/Shackett/Shackett/139923
+
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV : ANIME ALL DAY" tvg-logo="http://hostengine.live:25461/images/3df2189c2096b12b98f715fcbbc92c47.png" group-title="LIVE CHANNEL",ANIME ALL DAY
+http://wayforward.xyz:25461/Shackett/Shackett/138659
+
+
+
+
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV ²
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH : TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",KAPATID TV5 ²
+http://wayforward.xyz:25461/Shackett/Shackett/57411
+
+#EXTINF:-1 tvg-id="" tvg-name="PH : ONE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="LIVE CHANNEL",ONE SPORT ²
+http://wayforward.xyz:25461/Shackett/Shackett/179393
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA 7 MANILA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL,GMA TV ³
+http://fp.visualsec.net:8443/live/kGH88EK2pUmZE5wZdTTknA/1657493481/5.m3u8
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV5 ³
+http://fp.visualsec.net:8443/live/kGH88EK2pUmZE5wZdTTknA/1657493481/8.m3u8
+
+#EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png"
+group-title="LIVE CHANNEL",One Sports ³
+http://103.105.213.251:8443/live/CG1nIbzAuE2vg6aNou3mhA/1657494506/50.m3u8
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV ⁴
+http://103.105.213.251:8443/live/CG1nIbzAuE2vg6aNou3mhA/1657494506/5.m3u8
+
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV 5 ⁴
+http://103.105.213.251:8443/live/CG1nIbzAuE2vg6aNou3mhA/1657494506/8.m3u8
