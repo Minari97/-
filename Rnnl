@@ -90,27 +90,27 @@ http://wayforward.xyz:25461/Shackett/Shackett/138659
 
 
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV ²
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV 2
 https://iptv-sniper.herokuapp.com/localtv.php?channel=5
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH : TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",KAPATID TV5 ²
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="PH : TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",KAPATID TV5 2
 http://wayforward.xyz:25461/Shackett/Shackett/57411
 
-#EXTINF:-1 tvg-id="" tvg-name="PH : ONE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="LIVE CHANNEL",ONE SPORT ²
+#EXTINF:-1 tvg-id="" tvg-name="PH : ONE SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png" group-title="LIVE CHANNEL",ONE SPORT 2
 http://wayforward.xyz:25461/Shackett/Shackett/179393
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA 7 MANILA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL,GMA TV ³
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA 7 MANILA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL,GMA TV 3
 http://fp.visualsec.net:8443/live/kGH88EK2pUmZE5wZdTTknA/1657493481/5.m3u8
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV5 ³
+#EXTINF:-1 tvg-id="TV5.ph" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV5 3
 http://fp.visualsec.net:8443/live/kGH88EK2pUmZE5wZdTTknA/1657493481/8.m3u8
 
 #EXTINF:-1 tvg-id="OneSports.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/512px-One_Sports_logo.svg.png"
-group-title="LIVE CHANNEL",One Sports ³
+group-title="LIVE CHANNEL",One Sports 3
 http://103.105.213.251:8443/live/CG1nIbzAuE2vg6aNou3mhA/1657494506/50.m3u8
 
-#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV ⁴
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV 4
 http://103.105.213.251:8443/live/CG1nIbzAuE2vg6aNou3mhA/1657494506/5.m3u8
 
-#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV 5 ⁴
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_(Philippines)_logo.svg/512px-TV5_(Philippines)_logo.svg.png" group-title="LIVE CHANNEL",TV5 4
 http://103.105.213.251:8443/live/CG1nIbzAuE2vg6aNou3mhA/1657494506/8.m3u8
