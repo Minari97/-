@@ -1,4 +1,3 @@
-
 #EXTM3U url-tvg="http://m3u4u.com/epg/782dyqg66pb4keqvy4zp,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml"
 
 #EXTINF:-1 tvg-id="GMATV.ph" tvg-name="GMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/512px-GMA_Network_Logo_Vector.svg.png" group-title="LIVE CHANNEL",GMA TV
